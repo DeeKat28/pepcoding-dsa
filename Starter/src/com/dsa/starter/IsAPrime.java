@@ -1,6 +1,8 @@
+package com.dsa.starter;
+
 import java.util.*;
 
-public class Main {
+public class IsAPrime {
 
   public static void main(String[] args) {
     Scanner scn = new Scanner(System.in);
@@ -16,7 +18,7 @@ public class Main {
     }
   }
   
-  public static boolean isPrime(int x) {
+  private static boolean isPrime(int x) {
       if (x <= 2) {
           return true;
       }

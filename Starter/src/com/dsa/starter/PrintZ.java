@@ -1,7 +1,6 @@
-import java.util.*;
+package com.dsa.starter;
 
-public class Main {
-
+public class PrintZ {
   public static void main(String[] args) {
     System.out.println("*****");
     System.out.println("   *");

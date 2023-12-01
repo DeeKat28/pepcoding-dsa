@@ -1,6 +1,8 @@
+package com.dsa.starter;
+
 import java.util.*;
 
-public class Main {
+public class GradingSystem {
 
   public static void main(String[] args) {
     // input - don't change this code
