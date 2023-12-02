@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/starter/CountDigitsInNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/starter/GCDandLCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/starter/InverseOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/starter/PrimeFactorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/starter/PrimeNosInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/starter/PrintFibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/starter/PythagoreanTriplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/starter/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/starter/RotateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,33 +23,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
               <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrimeNosInRange.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/PrimeNosInRange.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintFibonacci.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/PrintFibonacci.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountDigitsInNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/CountDigitsInNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="30" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -98,11 +63,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimeFactorization.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrimeFactorization.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/PrimeFactorization.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
               <caret line="7" column="30" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BenjaminBulbs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/BenjaminBulbs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pattern1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pattern2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -143,6 +135,9 @@
         <option value="$PROJECT_DIR$/src/com/dsa/starter/GCDandLCM.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/starter/PrimeFactorization.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/starter/PythagoreanTriplet.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/starter/BenjaminBulbs.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/patterns/Pattern1.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/patterns/Pattern2.java" />
       </list>
     </option>
   </component>
@@ -185,6 +180,20 @@
               <item name="Starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="Starter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dsa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dsa" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dsa" type="462c0819:PsiDirectoryNode" />
               <item name="starter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -216,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BenjaminBulbs">
+  <component name="RunManager" selected="Application.Pattern2">
     <configuration name="BenjaminBulbs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.starter.BenjaminBulbs" />
       <module name="Starter" />
@@ -228,13 +237,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="GCDandLCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.starter.GCDandLCM" />
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.patterns.Pattern1" />
       <module name="Starter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dsa.starter.*" />
+          <option name="PATTERN" value="com.dsa.patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.patterns.Pattern2" />
+      <module name="Starter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,17 +272,6 @@
     </configuration>
     <configuration name="PythagoreanTriplet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.starter.PythagoreanTriplet" />
-      <module name="Starter" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dsa.starter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="RotateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.starter.RotateNumber" />
       <module name="Starter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -314,19 +323,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.RotateNumber" />
-      <item itemvalue="Application.GCDandLCM" />
       <item itemvalue="Application.PrimeFactorization" />
       <item itemvalue="Application.PythagoreanTriplet" />
       <item itemvalue="Application.BenjaminBulbs" />
+      <item itemvalue="Application.Pattern1" />
+      <item itemvalue="Application.Pattern2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern2" />
+        <item itemvalue="Application.Pattern1" />
         <item itemvalue="Application.BenjaminBulbs" />
         <item itemvalue="Application.PythagoreanTriplet" />
         <item itemvalue="Application.PrimeFactorization" />
-        <item itemvalue="Application.GCDandLCM" />
-        <item itemvalue="Application.RotateNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +350,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701425981077</updated>
       <workItem from="1701425982275" duration="5742000" />
-      <workItem from="1701507574938" duration="3286000" />
+      <workItem from="1701507574938" duration="4102000" />
     </task>
     <task id="LOCAL-00001" summary="Update with Java Project">
       <created>1701429975087</created>
@@ -350,11 +359,25 @@
       <option name="project" value="LOCAL" />
       <updated>1701429975087</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Inverse Number, Prime Factorization, etc.">
+      <created>1701513802106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701513802106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pattern1">
+      <created>1701514395762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701514395762</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9028000" />
+    <option name="totallyTimeSpent" value="9844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -400,7 +423,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update with Java Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update with Java Project" />
+    <MESSAGE value="Inverse Number, Prime Factorization, etc." />
+    <MESSAGE value="Pattern1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pattern1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/PrintZ.java">
@@ -540,6 +565,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="7" column="30" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/BenjaminBulbs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
