@@ -2,17 +2,20 @@ package com.dsa.patterns;
 
 import java.util.Scanner;
 
-public class Pattern2 {
+public class Pattern3 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
 
-        int stars = n;
         for (int i = 0; i < n; i++) {
-            for (int j = stars; j >= 1; j--) {
-                System.out.print("*\t");
+            for (int j = 0; j < n; j++) {
+                if (i + j < n - 1) {
+                    System.out.print("\t");
+                }
+                else {
+                    System.out.print("*\t");
+                }
             }
-            stars--;
             System.out.println();
         }
     }
