@@ -2,24 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/functions/AnyBaseAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/functions/AnyBaseMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/functions/AnyBaseSubtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/functions/AnyBaseToAnyBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/functions/AnyBaseToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/functions/DecimalToAnyBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/functions/DigitFrequency.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern10.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern11.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern12.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern13.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern18.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern19.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern22.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern6.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern8.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,92 +41,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Pattern7.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pattern8.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pattern9.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pattern10.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern10.java">
+      <file leaf-file-name="Pattern18.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern18.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="45" />
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pattern11.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern11.java">
+      <file leaf-file-name="Pattern21.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern21.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="11" column="40" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="40" />
+            <state relative-caret-position="231">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pattern12.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern12.java">
+      <file leaf-file-name="Pattern22.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern22.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+            <state relative-caret-position="198">
+              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pattern13.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pattern14.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pattern19.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern19.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pattern20.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern20.java">
+      <file leaf-file-name="DigitFrequency.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/DigitFrequency.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="693">
-              <caret line="21" column="33" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="33" />
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecimalToAnyBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/DecimalToAnyBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="23" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnyBaseToDecimal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseToDecimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnyBaseToAnyBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseToAnyBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnyBaseAddition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseAddition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1155">
+              <caret line="35" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnyBaseSubtraction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseSubtraction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnyBaseMultiplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseMultiplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -168,6 +175,20 @@
         <option value="$PROJECT_DIR$/src/com/dsa/patterns/Pattern12.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/patterns/Pattern13.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/patterns/Pattern14.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/patterns/Pattern15.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/patterns/Pattern16.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/patterns/Pattern17.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/patterns/Pattern18.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/patterns/Pattern21.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/patterns/Pattern22.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/functions/DigitFrequency.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/functions/DecimalToAbyBase.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/functions/DecimalToAnyBase.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/functions/AnyBaseToDecimal.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/functions/AnyBaseToAnyBase.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/functions/AnyBaseAddition.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/functions/AnyBaseSubtraction.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/functions/AnyBaseMultiplication.java" />
       </list>
     </option>
   </component>
@@ -193,8 +214,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,19 +237,21 @@
               <item name="Starter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dsa" type="462c0819:PsiDirectoryNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="Starter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dsa" type="462c0819:PsiDirectoryNode" />
-              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,64 +276,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pattern14">
-    <configuration name="Pattern10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.patterns.Pattern10" />
+  <component name="RunManager" selected="Application.AnyBaseSubtraction">
+    <configuration name="AnyBaseAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.functions.AnyBaseAddition" />
       <module name="Starter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dsa.patterns.*" />
+          <option name="PATTERN" value="com.dsa.functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="AnyBaseSubtraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.functions.AnyBaseSubtraction" />
+      <module name="Starter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="AnyBaseToAnyBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.functions.AnyBaseToAnyBase" />
+      <module name="Starter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="AnyBaseToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.functions.AnyBaseToDecimal" />
+      <module name="Starter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DecimalToAnyBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.functions.DecimalToAnyBase" />
+      <module name="Starter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Pattern11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.patterns.Pattern11" />
-      <module name="Starter" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dsa.patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Pattern12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.patterns.Pattern12" />
-      <module name="Starter" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dsa.patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Pattern13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.patterns.Pattern13" />
-      <module name="Starter" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dsa.patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Pattern14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.patterns.Pattern14" />
-      <module name="Starter" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dsa.patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Pattern20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.patterns.Pattern20" />
       <module name="Starter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -364,19 +385,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Pattern20" />
-      <item itemvalue="Application.Pattern10" />
-      <item itemvalue="Application.Pattern12" />
-      <item itemvalue="Application.Pattern13" />
-      <item itemvalue="Application.Pattern14" />
+      <item itemvalue="Application.DecimalToAnyBase" />
+      <item itemvalue="Application.AnyBaseToDecimal" />
+      <item itemvalue="Application.AnyBaseToAnyBase" />
+      <item itemvalue="Application.AnyBaseAddition" />
+      <item itemvalue="Application.AnyBaseSubtraction" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pattern14" />
-        <item itemvalue="Application.Pattern13" />
-        <item itemvalue="Application.Pattern12" />
-        <item itemvalue="Application.Pattern10" />
-        <item itemvalue="Application.Pattern20" />
+        <item itemvalue="Application.AnyBaseSubtraction" />
+        <item itemvalue="Application.AnyBaseAddition" />
+        <item itemvalue="Application.AnyBaseToAnyBase" />
+        <item itemvalue="Application.AnyBaseToDecimal" />
+        <item itemvalue="Application.DecimalToAnyBase" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +413,10 @@
       <updated>1701425981077</updated>
       <workItem from="1701425982275" duration="5742000" />
       <workItem from="1701507574938" duration="18608000" />
-      <workItem from="1701592226606" duration="1651000" />
+      <workItem from="1701592226606" duration="7643000" />
+      <workItem from="1701608590850" duration="8240000" />
+      <workItem from="1701629919054" duration="3295000" />
+      <workItem from="1701683367352" duration="717000" />
     </task>
     <task id="LOCAL-00001" summary="Update with Java Project">
       <created>1701429975087</created>
@@ -422,31 +446,52 @@
       <option name="project" value="LOCAL" />
       <updated>1701514741635</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Pattern3">
+      <created>1701595794622</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701595794623</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Pattern4">
+      <created>1701595832550</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701595832550</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Pattern5">
+      <created>1701595851566</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701595851566</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26001000" />
+    <option name="totallyTimeSpent" value="44245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4989339" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5053305" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49733475" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4946695" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -454,7 +499,8 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.39978212" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49840087" weight="0.32897604" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -474,72 +520,17 @@
     <MESSAGE value="Inverse Number, Prime Factorization, etc." />
     <MESSAGE value="Pattern1" />
     <MESSAGE value="Pattern2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern2" />
+    <MESSAGE value="Pattern3" />
+    <MESSAGE value="Pattern4" />
+    <MESSAGE value="Pattern5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pattern5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
@@ -750,20 +741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern19.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -787,22 +764,127 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        <state relative-caret-position="429">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern13.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern17.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern14.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/patterns/Pattern22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/DigitFrequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/DecimalToAnyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="23" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseToDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseToAnyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseSubtraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="35" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
         </state>
       </provider>
     </entry>
