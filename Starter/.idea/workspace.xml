@@ -22,8 +22,6 @@
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern20.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern21.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern8.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -124,8 +122,8 @@
       <file leaf-file-name="AnyBaseMultiplication.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseMultiplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+            <state relative-caret-position="363">
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -415,7 +413,7 @@
       <workItem from="1701592226606" duration="7643000" />
       <workItem from="1701608590850" duration="8240000" />
       <workItem from="1701629919054" duration="3295000" />
-      <workItem from="1701683367352" duration="2651000" />
+      <workItem from="1701683367352" duration="4493000" />
     </task>
     <task id="LOCAL-00001" summary="Update with Java Project">
       <created>1701429975087</created>
@@ -473,14 +471,29 @@
       <option name="project" value="LOCAL" />
       <updated>1701689103000</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Pattern7">
+      <created>1701693167566</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701693167566</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Pattern8">
+      <created>1701702901961</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701702901961</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46179000" />
+    <option name="totallyTimeSpent" value="48021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -529,7 +542,9 @@
     <MESSAGE value="Pattern4" />
     <MESSAGE value="Pattern5" />
     <MESSAGE value="Pattern6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern6" />
+    <MESSAGE value="Pattern7" />
+    <MESSAGE value="Pattern8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pattern8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -889,8 +904,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseMultiplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        <state relative-caret-position="363">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
