@@ -22,7 +22,6 @@
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern20.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern21.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern6.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern8.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern9.java" afterDir="false" />
@@ -125,8 +124,8 @@
       <file leaf-file-name="AnyBaseMultiplication.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseMultiplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="792">
+              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -276,9 +275,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AnyBaseSubtraction">
+  <component name="RunManager" selected="Application.AnyBaseMultiplication">
     <configuration name="AnyBaseAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.functions.AnyBaseAddition" />
+      <module name="Starter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="AnyBaseMultiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.functions.AnyBaseMultiplication" />
       <module name="Starter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -312,17 +322,6 @@
     </configuration>
     <configuration name="AnyBaseToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.functions.AnyBaseToDecimal" />
-      <module name="Starter" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dsa.functions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="DecimalToAnyBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.functions.DecimalToAnyBase" />
       <module name="Starter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -385,19 +384,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DecimalToAnyBase" />
       <item itemvalue="Application.AnyBaseToDecimal" />
       <item itemvalue="Application.AnyBaseToAnyBase" />
       <item itemvalue="Application.AnyBaseAddition" />
       <item itemvalue="Application.AnyBaseSubtraction" />
+      <item itemvalue="Application.AnyBaseMultiplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnyBaseMultiplication" />
         <item itemvalue="Application.AnyBaseSubtraction" />
         <item itemvalue="Application.AnyBaseAddition" />
         <item itemvalue="Application.AnyBaseToAnyBase" />
         <item itemvalue="Application.AnyBaseToDecimal" />
-        <item itemvalue="Application.DecimalToAnyBase" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +415,7 @@
       <workItem from="1701592226606" duration="7643000" />
       <workItem from="1701608590850" duration="8240000" />
       <workItem from="1701629919054" duration="3295000" />
-      <workItem from="1701683367352" duration="717000" />
+      <workItem from="1701683367352" duration="2651000" />
     </task>
     <task id="LOCAL-00001" summary="Update with Java Project">
       <created>1701429975087</created>
@@ -467,26 +466,33 @@
       <option name="project" value="LOCAL" />
       <updated>1701595851566</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Pattern6">
+      <created>1701689103000</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701689103000</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44245000" />
+    <option name="totallyTimeSpent" value="46179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49840087" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5053305" side_tool="true" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50586355" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4946695" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49413645" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -500,7 +506,6 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.39978212" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49840087" weight="0.32897604" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -523,7 +528,8 @@
     <MESSAGE value="Pattern3" />
     <MESSAGE value="Pattern4" />
     <MESSAGE value="Pattern5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern5" />
+    <MESSAGE value="Pattern6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pattern6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -883,8 +889,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/functions/AnyBaseMultiplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="792">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
         </state>
       </provider>
     </entry>
