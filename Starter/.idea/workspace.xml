@@ -13,7 +13,9 @@
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/Subsets.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/SumOfTwoArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/Array2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/ExitPointOfMatrix.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/MatrixMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/RotateBy90Deg.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/SpiralDisplay.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/StateOfWakanda1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/functions/AnyBaseAddition.java" afterDir="false" />
@@ -23,8 +25,6 @@
       <change afterPath="$PROJECT_DIR$/src/com/dsa/functions/AnyBaseToDecimal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/functions/DecimalToAnyBase.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/functions/DigitFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern19.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern20.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern21.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/patterns/Pattern22.java" afterDir="false" />
@@ -43,27 +43,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DifferenceOfTwoArrays.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays/DifferenceOfTwoArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1551">
-              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays/ReverseArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="21" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RotateArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays/RotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -148,11 +127,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpiralDisplay.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SpiralDisplay.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays_2d/SpiralDisplay.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+              <caret line="18" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExitPointOfMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays_2d/ExitPointOfMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotateBy90Deg.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays_2d/RotateBy90Deg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" column="81" lean-forward="true" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -175,8 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dsa/starter/ReverseNumber.java" />
-        <option value="$PROJECT_DIR$/src/com/dsa/starter/InverseOfNumber.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/starter/RotateNumber.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/starter/GCDandLCM.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/starter/PrimeFactorization.java" />
@@ -226,6 +227,8 @@
         <option value="$PROJECT_DIR$/src/com/dsa/arrays_2d/MatrixMultiplication.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/arrays_2d/StateOfWakanda1.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/arrays_2d/SpiralDisplay.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/arrays_2d/ExitPointOfMatrix.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/arrays_2d/RotateBy90Deg.java" />
       </list>
     </option>
   </component>
@@ -334,9 +337,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpiralDisplay">
-    <configuration name="Array2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.arrays_2d.Array2D" />
+  <component name="RunManager" selected="Application.RotateBy90Deg">
+    <configuration name="ExitPointOfMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.arrays_2d.ExitPointOfMatrix" />
       <module name="Starter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -368,6 +371,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="RotateBy90Deg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.arrays_2d.RotateBy90Deg" />
+      <module name="Starter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.arrays_2d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="SpiralDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.arrays_2d.SpiralDisplay" />
       <module name="Starter" />
@@ -386,17 +400,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dsa.arrays_2d.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.arrays.Subsets" />
-      <module name="Starter" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dsa.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -443,19 +446,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Subsets" />
-      <item itemvalue="Application.Array2D" />
       <item itemvalue="Application.MatrixMultiplication" />
       <item itemvalue="Application.StateOfWakanda1" />
       <item itemvalue="Application.SpiralDisplay" />
+      <item itemvalue="Application.ExitPointOfMatrix" />
+      <item itemvalue="Application.RotateBy90Deg" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateBy90Deg" />
+        <item itemvalue="Application.ExitPointOfMatrix" />
         <item itemvalue="Application.SpiralDisplay" />
         <item itemvalue="Application.StateOfWakanda1" />
         <item itemvalue="Application.MatrixMultiplication" />
-        <item itemvalue="Application.Array2D" />
-        <item itemvalue="Application.Subsets" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +483,7 @@
       <workItem from="1701853868700" duration="9155000" />
       <workItem from="1701897877275" duration="1436000" />
       <workItem from="1701938742024" duration="4137000" />
-      <workItem from="1702034032760" duration="246000" />
+      <workItem from="1702034032760" duration="6278000" />
     </task>
     <task id="LOCAL-00001" summary="Update with Java Project">
       <created>1701429975087</created>
@@ -608,11 +611,18 @@
       <option name="project" value="LOCAL" />
       <updated>1701943916420</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Pattern18, Pattern19">
+      <created>1702034305939</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1702034305939</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72734000" />
+    <option name="totallyTimeSpent" value="78766000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -620,14 +630,15 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49840087" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5079957" side_tool="true" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50852877" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49200428" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4914712" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -641,7 +652,6 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.39978212" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49840087" weight="0.32897604" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -675,28 +685,15 @@
     <MESSAGE value="Pattern14" />
     <MESSAGE value="Pattern15" />
     <MESSAGE value="Pattern16, Pattern17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pattern16, Pattern17" />
+    <MESSAGE value="Pattern18, Pattern19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pattern18, Pattern19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/PrintZ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/ReverseNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/InverseOfNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -1060,7 +1057,27 @@
     <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays_2d/SpiralDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <caret line="18" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays_2d/ExitPointOfMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays_2d/RotateBy90Deg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="81" lean-forward="true" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
