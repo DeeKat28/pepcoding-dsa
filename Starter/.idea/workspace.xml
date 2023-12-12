@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="Find element">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/DifferenceOfTwoArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/InverseArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/ReverseArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/RotateArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/SubArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/SumOfTwoArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/Array2D.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/ExitPointOfMatrix.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/MatrixMultiplication.java" afterDir="false" />
@@ -539,7 +537,7 @@
       <workItem from="1702197715126" duration="3959000" />
       <workItem from="1702233314178" duration="2599000" />
       <workItem from="1702286564046" duration="22189000" />
-      <workItem from="1702373114707" duration="1366000" />
+      <workItem from="1702373114707" duration="1605000" />
     </task>
     <task id="LOCAL-00001" summary="Update with Java Project">
       <created>1701429975087</created>
@@ -723,11 +721,25 @@
       <option name="project" value="LOCAL" />
       <updated>1702292354483</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="SumOfTwoArrays">
+      <created>1702375831346</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1702375831346</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Sum and Difference of Two Arrays">
+      <created>1702375909523</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1702375909523</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128737000" />
+    <option name="totallyTimeSpent" value="128976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -772,8 +784,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Inverse Number, Prime Factorization, etc." />
-    <MESSAGE value="Pattern1" />
     <MESSAGE value="Pattern2" />
     <MESSAGE value="Pattern3" />
     <MESSAGE value="Pattern4" />
@@ -797,7 +807,9 @@
     <MESSAGE value="Span of Array" />
     <MESSAGE value="Find element" />
     <MESSAGE value="BarChart" />
-    <option name="LAST_COMMIT_MESSAGE" value="BarChart" />
+    <MESSAGE value="SumOfTwoArrays" />
+    <MESSAGE value="Sum and Difference of Two Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum and Difference of Two Arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
