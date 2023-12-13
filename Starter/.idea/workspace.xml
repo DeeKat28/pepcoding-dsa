@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="Find element">
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/InverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/ReverseArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/RotateArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/SubArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/Subsets.java" afterDir="false" />
@@ -35,9 +34,11 @@
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_arrays/FirstIndexInArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_arrays/LastIndexInArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_arrays/MaxOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintEncodings.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintKPC.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintMazePaths.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintMazePathsWithJumps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintPermutations.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintStairPaths.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintSubsequence.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/strings/ConsecutiveCharactersDifference.java" afterDir="false" />
@@ -60,18 +61,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GetSubsequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_arraylist/GetSubsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="10" column="35" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GetKPC.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_arraylist/GetKPC.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -120,18 +109,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintSubsequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintSubsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PrintKPC.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintKPC.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -165,14 +142,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintMazePathsWithJumps.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrintMazePathsWithJumps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintMazePathsWithJumps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
+            <state relative-caret-position="1287">
               <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintEncodings.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintEncodings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" column="40" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintPermutations.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintPermutations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -193,8 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dsa/arrays/SpanOfArray.java" />
-        <option value="$PROJECT_DIR$/src/com/dsa/arrays/FindElementInArray.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/arrays/BarChart.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/arrays/SumOfTwoArrays.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/arrays/DifferenceOfTwoArrays.java" />
@@ -244,6 +237,8 @@
         <option value="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintStairPaths.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintMazePaths.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintMazePathsWithJumps.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintEncodings.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintPermutations.java" />
       </list>
     </option>
   </component>
@@ -360,9 +355,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -387,7 +382,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintMazePathsWithJumps">
+  <component name="RunManager" selected="Application.PrintPermutations">
     <configuration name="PalindromicSubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.strings.PalindromicSubstrings" />
       <module name="Starter" />
@@ -399,8 +394,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PrintKPC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.recursion_on_the_way_up.PrintKPC" />
+    <configuration name="PrintEncodings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.recursion_on_the_way_up.PrintEncodings" />
       <module name="Starter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -432,8 +427,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PrintStairPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.recursion_on_the_way_up.PrintStairPaths" />
+    <configuration name="PrintPermutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.recursion_on_the_way_up.PrintPermutations" />
       <module name="Starter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -443,8 +438,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PrintSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.recursion_on_the_way_up.PrintSubsequence" />
+    <configuration name="PrintStairPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.recursion_on_the_way_up.PrintStairPaths" />
       <module name="Starter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -496,19 +491,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PrintSubsequence" />
-      <item itemvalue="Application.PrintKPC" />
       <item itemvalue="Application.PrintStairPaths" />
       <item itemvalue="Application.PrintMazePaths" />
       <item itemvalue="Application.PrintMazePathsWithJumps" />
+      <item itemvalue="Application.PrintEncodings" />
+      <item itemvalue="Application.PrintPermutations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintPermutations" />
+        <item itemvalue="Application.PrintEncodings" />
         <item itemvalue="Application.PrintMazePathsWithJumps" />
         <item itemvalue="Application.PrintMazePaths" />
         <item itemvalue="Application.PrintStairPaths" />
-        <item itemvalue="Application.PrintKPC" />
-        <item itemvalue="Application.PrintSubsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -537,7 +532,8 @@
       <workItem from="1702197715126" duration="3959000" />
       <workItem from="1702233314178" duration="2599000" />
       <workItem from="1702286564046" duration="22189000" />
-      <workItem from="1702373114707" duration="1605000" />
+      <workItem from="1702373114707" duration="7861000" />
+      <workItem from="1702464632577" duration="627000" />
     </task>
     <task id="LOCAL-00001" summary="Update with Java Project">
       <created>1701429975087</created>
@@ -735,11 +731,18 @@
       <option name="project" value="LOCAL" />
       <updated>1702375909523</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Reverse Array">
+      <created>1702375949430</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1702375949430</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128976000" />
+    <option name="totallyTimeSpent" value="135859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -750,16 +753,16 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.510661" side_tool="true" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51119405" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48933902" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48880598" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29317698" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29637527" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -784,7 +787,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pattern2" />
     <MESSAGE value="Pattern3" />
     <MESSAGE value="Pattern4" />
     <MESSAGE value="Pattern5" />
@@ -809,7 +811,8 @@
     <MESSAGE value="BarChart" />
     <MESSAGE value="SumOfTwoArrays" />
     <MESSAGE value="Sum and Difference of Two Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum and Difference of Two Arrays" />
+    <MESSAGE value="Reverse Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse Array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -817,23 +820,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintMazePathsWithJumps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1287">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays/BarChart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays/SumOfTwoArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1419">
@@ -894,9 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="18" column="9" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -904,9 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -914,9 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="18" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -924,9 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="18" column="9" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -934,9 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -944,9 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="16" column="9" selection-start-line="7" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -954,9 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="17" column="9" selection-start-line="8" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -964,9 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1129,9 +1091,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="10" column="35" selection-start-line="9" selection-start-column="8" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1214,11 +1173,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintMazePathsWithJumps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
+        <state relative-caret-position="1287">
           <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintEncodings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="40" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintPermutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
