@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="Find element">
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/InverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/RotateArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/SubArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/Subsets.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/Array2D.java" afterDir="false" />
@@ -533,7 +532,7 @@
       <workItem from="1702233314178" duration="2599000" />
       <workItem from="1702286564046" duration="22189000" />
       <workItem from="1702373114707" duration="7861000" />
-      <workItem from="1702464632577" duration="627000" />
+      <workItem from="1702464632577" duration="1441000" />
     </task>
     <task id="LOCAL-00001" summary="Update with Java Project">
       <created>1701429975087</created>
@@ -738,11 +737,18 @@
       <option name="project" value="LOCAL" />
       <updated>1702375949430</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Rotate array">
+      <created>1702465674055</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1702465674055</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135859000" />
+    <option name="totallyTimeSpent" value="136673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -787,7 +793,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pattern3" />
     <MESSAGE value="Pattern4" />
     <MESSAGE value="Pattern5" />
     <MESSAGE value="Pattern6" />
@@ -812,7 +817,8 @@
     <MESSAGE value="SumOfTwoArrays" />
     <MESSAGE value="Sum and Difference of Two Arrays" />
     <MESSAGE value="Reverse Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse Array" />
+    <MESSAGE value="Rotate array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rotate array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
