@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="Find element">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/InverseArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/SubArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/Subsets.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/Array2D.java" afterDir="false" />
@@ -65,9 +64,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
               <caret line="9" column="40" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -77,9 +73,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
               <caret line="9" column="48" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -165,7 +158,7 @@
       <file leaf-file-name="PrintPermutations.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintPermutations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
+            <state relative-caret-position="502">
               <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
@@ -262,6 +255,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -355,8 +350,6 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -532,7 +525,9 @@
       <workItem from="1702233314178" duration="2599000" />
       <workItem from="1702286564046" duration="22189000" />
       <workItem from="1702373114707" duration="7861000" />
-      <workItem from="1702464632577" duration="1441000" />
+      <workItem from="1702464632577" duration="1487000" />
+      <workItem from="1702493848692" duration="1126000" />
+      <workItem from="1702545963453" duration="264000" />
     </task>
     <task id="LOCAL-00001" summary="Update with Java Project">
       <created>1701429975087</created>
@@ -744,11 +739,18 @@
       <option name="project" value="LOCAL" />
       <updated>1702465674055</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Inverse Array">
+      <created>1702466513730</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1702466513730</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136673000" />
+    <option name="totallyTimeSpent" value="138109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -768,7 +770,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29637527" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30277187" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -780,10 +782,10 @@
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49733475" weight="0.32897604" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -793,7 +795,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pattern4" />
     <MESSAGE value="Pattern5" />
     <MESSAGE value="Pattern6" />
     <MESSAGE value="Pattern7" />
@@ -818,7 +819,8 @@
     <MESSAGE value="Sum and Difference of Two Arrays" />
     <MESSAGE value="Reverse Array" />
     <MESSAGE value="Rotate array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rotate array" />
+    <MESSAGE value="Inverse Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inverse Array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1114,9 +1116,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="9" column="40" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1131,9 +1130,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="9" column="48" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1196,7 +1192,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintPermutations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
+        <state relative-caret-position="502">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
