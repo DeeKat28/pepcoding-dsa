@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="Find element">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/SubArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays/Subsets.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/Array2D.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/ExitPointOfMatrix.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/MatrixMultiplication.java" afterDir="false" />
@@ -21,6 +19,8 @@
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion/PrintIncreasingDecreasing.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion/PrintZigZag.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion/TowerOfHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_and_backtracking/FloodFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_and_backtracking/TargetSumSubsets.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_arraylist/GetKPC.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_arraylist/GetMazePaths.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_arraylist/GetMazePathsWithJumps.java" afterDir="false" />
@@ -59,15 +59,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GetKPC.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_arraylist/GetKPC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="9" column="40" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GetStairPaths.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_arraylist/GetStairPaths.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,15 +88,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintKPC.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintKPC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -155,11 +137,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintPermutations.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrintPermutations.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintPermutations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
+            <state relative-caret-position="660">
               <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TargetSumSubsets.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_and_backtracking/TargetSumSubsets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="30" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FloodFill.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_and_backtracking/FloodFill.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -180,9 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dsa/arrays/BarChart.java" />
-        <option value="$PROJECT_DIR$/src/com/dsa/arrays/SumOfTwoArrays.java" />
-        <option value="$PROJECT_DIR$/src/com/dsa/arrays/DifferenceOfTwoArrays.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/arrays/ReverseArray.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/arrays/RotateArray.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/arrays/InverseArray.java" />
@@ -231,6 +228,9 @@
         <option value="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintMazePathsWithJumps.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintEncodings.java" />
         <option value="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintPermutations.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/recursion_and_backtracking.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/recursion_and_backtracking/TargetSumSubsets.java" />
+        <option value="$PROJECT_DIR$/src/com/dsa/recursion_and_backtracking/FloodFill.java" />
       </list>
     </option>
   </component>
@@ -255,8 +255,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,6 +313,13 @@
               <item name="Starter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dsa" type="462c0819:PsiDirectoryNode" />
+              <item name="recursion_and_backtracking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dsa" type="462c0819:PsiDirectoryNode" />
               <item name="recursion_arraylist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -349,7 +354,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -374,7 +381,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintPermutations">
+  <component name="RunManager" selected="Application.FloodFill">
+    <configuration name="FloodFill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.recursion_and_backtracking.FloodFill" />
+      <module name="Starter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.recursion_and_backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="PalindromicSubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.strings.PalindromicSubstrings" />
       <module name="Starter" />
@@ -388,17 +406,6 @@
     </configuration>
     <configuration name="PrintEncodings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.recursion_on_the_way_up.PrintEncodings" />
-      <module name="Starter" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dsa.recursion_on_the_way_up.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="PrintMazePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.recursion_on_the_way_up.PrintMazePaths" />
       <module name="Starter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -430,13 +437,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PrintStairPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.recursion_on_the_way_up.PrintStairPaths" />
+    <configuration name="TargetSumSubsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.recursion_and_backtracking.TargetSumSubsets" />
       <module name="Starter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dsa.recursion_on_the_way_up.*" />
+          <option name="PATTERN" value="com.dsa.recursion_and_backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -483,19 +490,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PrintStairPaths" />
-      <item itemvalue="Application.PrintMazePaths" />
       <item itemvalue="Application.PrintMazePathsWithJumps" />
       <item itemvalue="Application.PrintEncodings" />
       <item itemvalue="Application.PrintPermutations" />
+      <item itemvalue="Application.TargetSumSubsets" />
+      <item itemvalue="Application.FloodFill" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FloodFill" />
+        <item itemvalue="Application.TargetSumSubsets" />
         <item itemvalue="Application.PrintPermutations" />
         <item itemvalue="Application.PrintEncodings" />
         <item itemvalue="Application.PrintMazePathsWithJumps" />
-        <item itemvalue="Application.PrintMazePaths" />
-        <item itemvalue="Application.PrintStairPaths" />
       </list>
     </recent_temporary>
   </component>
@@ -527,7 +534,8 @@
       <workItem from="1702373114707" duration="7861000" />
       <workItem from="1702464632577" duration="1487000" />
       <workItem from="1702493848692" duration="1126000" />
-      <workItem from="1702545963453" duration="264000" />
+      <workItem from="1702545963453" duration="8098000" />
+      <workItem from="1702637726585" duration="1788000" />
     </task>
     <task id="LOCAL-00001" summary="Update with Java Project">
       <created>1701429975087</created>
@@ -746,11 +754,25 @@
       <option name="project" value="LOCAL" />
       <updated>1702466513730</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Find SubArrays">
+      <created>1702546250833</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1702546250833</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Find Subsets - Array">
+      <created>1702546280533</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1702546280533</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138109000" />
+    <option name="totallyTimeSpent" value="147731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -761,16 +783,16 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51119405" side_tool="true" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5117271" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48880598" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48827294" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30277187" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30597016" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -782,10 +804,10 @@
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49733475" weight="0.32897604" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -795,8 +817,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pattern5" />
-    <MESSAGE value="Pattern6" />
     <MESSAGE value="Pattern7" />
     <MESSAGE value="Pattern8" />
     <MESSAGE value="Pattern9" />
@@ -820,7 +840,9 @@
     <MESSAGE value="Reverse Array" />
     <MESSAGE value="Rotate array" />
     <MESSAGE value="Inverse Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inverse Array" />
+    <MESSAGE value="Find SubArrays" />
+    <MESSAGE value="Find Subsets - Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find Subsets - Array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -828,27 +850,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays/SumOfTwoArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1419">
-          <caret line="43" column="9" selection-start-line="35" selection-start-column="8" selection-end-line="43" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays/DifferenceOfTwoArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1551">
-          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays/ReverseArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="21" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/arrays/RotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="891">
@@ -1190,10 +1191,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_and_backtracking.java" />
     <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintPermutations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
+        <state relative-caret-position="660">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_and_backtracking/TargetSumSubsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="30" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_and_backtracking/FloodFill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
         </state>
       </provider>
     </entry>
