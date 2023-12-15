@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="Find element">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/Array2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/ExitPointOfMatrix.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/MatrixMultiplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/RingRotate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/RotateBy90Deg.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/SaddlePrice.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/SpiralDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/StateOfWakanda1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/UpperDiagonals.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion/Factorial.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion/PowerLinear.java" afterDir="false" />
@@ -535,7 +532,7 @@
       <workItem from="1702464632577" duration="1487000" />
       <workItem from="1702493848692" duration="1126000" />
       <workItem from="1702545963453" duration="8098000" />
-      <workItem from="1702637726585" duration="1788000" />
+      <workItem from="1702637726585" duration="3121000" />
     </task>
     <task id="LOCAL-00001" summary="Update with Java Project">
       <created>1701429975087</created>
@@ -768,11 +765,25 @@
       <option name="project" value="LOCAL" />
       <updated>1702546280533</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Exit Point of Matrix">
+      <created>1702643741063</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1702643741063</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Matrix Display - UpDown">
+      <created>1702644810611</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1702644810611</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147731000" />
+    <option name="totallyTimeSpent" value="149064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -817,8 +828,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pattern7" />
-    <MESSAGE value="Pattern8" />
     <MESSAGE value="Pattern9" />
     <MESSAGE value="Pattern10" />
     <MESSAGE value="Pattern11" />
@@ -842,7 +851,9 @@
     <MESSAGE value="Inverse Array" />
     <MESSAGE value="Find SubArrays" />
     <MESSAGE value="Find Subsets - Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find Subsets - Array" />
+    <MESSAGE value="Exit Point of Matrix" />
+    <MESSAGE value="Matrix Display - UpDown" />
+    <option name="LAST_COMMIT_MESSAGE" value="Matrix Display - UpDown" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
