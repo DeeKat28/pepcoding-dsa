@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="Find element">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/MatrixMultiplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/RingRotate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/RotateBy90Deg.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/arrays_2d/SaddlePrice.java" afterDir="false" />
@@ -252,6 +251,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -351,9 +351,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -532,7 +531,8 @@
       <workItem from="1702464632577" duration="1487000" />
       <workItem from="1702493848692" duration="1126000" />
       <workItem from="1702545963453" duration="8098000" />
-      <workItem from="1702637726585" duration="3121000" />
+      <workItem from="1702637726585" duration="3177000" />
+      <workItem from="1702727268249" duration="807000" />
     </task>
     <task id="LOCAL-00001" summary="Update with Java Project">
       <created>1701429975087</created>
@@ -779,11 +779,18 @@
       <option name="project" value="LOCAL" />
       <updated>1702644810611</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Matrix Multiplication">
+      <created>1702648114525</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1702648114525</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149064000" />
+    <option name="totallyTimeSpent" value="149927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -803,7 +810,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30597016" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30916846" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -815,10 +822,10 @@
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49733475" weight="0.32897604" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -828,7 +835,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pattern9" />
     <MESSAGE value="Pattern10" />
     <MESSAGE value="Pattern11" />
     <MESSAGE value="Pattern12" />
@@ -853,7 +859,8 @@
     <MESSAGE value="Find Subsets - Array" />
     <MESSAGE value="Exit Point of Matrix" />
     <MESSAGE value="Matrix Display - UpDown" />
-    <option name="LAST_COMMIT_MESSAGE" value="Matrix Display - UpDown" />
+    <MESSAGE value="Matrix Multiplication" />
+    <option name="LAST_COMMIT_MESSAGE" value="Matrix Multiplication" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
