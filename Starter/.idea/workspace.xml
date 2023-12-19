@@ -37,7 +37,6 @@
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/MergeSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/MergeTwoSortedArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/strings/RemovePrimes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -480,7 +479,7 @@
       <workItem from="1702802272345" duration="1884000" />
       <workItem from="1702827372157" duration="4472000" />
       <workItem from="1702899711784" duration="3420000" />
-      <workItem from="1702980731982" duration="707000" />
+      <workItem from="1702980731982" duration="1323000" />
     </task>
     <task id="LOCAL-00001" summary="Update with Java Project">
       <created>1701429975087</created>
@@ -797,11 +796,18 @@
       <option name="project" value="LOCAL" />
       <updated>1702914721569</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Remove Primes">
+      <created>1702981463339</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1702981463339</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166246000" />
+    <option name="totallyTimeSpent" value="166862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -846,7 +852,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="AnyBase Addition &amp; Subtraction" />
     <MESSAGE value="AnyBase Multiplication" />
     <MESSAGE value="AnyBase Conversions" />
     <MESSAGE value="Span of Array" />
@@ -871,7 +876,8 @@
     <MESSAGE value="String Compression" />
     <MESSAGE value="Toggle Case" />
     <MESSAGE value="Consecutive Character Difference" />
-    <option name="LAST_COMMIT_MESSAGE" value="Consecutive Character Difference" />
+    <MESSAGE value="Remove Primes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Primes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
