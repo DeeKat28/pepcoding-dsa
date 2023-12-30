@@ -7,11 +7,8 @@
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_and_backtracking/NQueens.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_and_backtracking/TargetSumSubsets.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintEncodings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintKPC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintMazePaths.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintMazePathsWithJumps.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintPermutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/PrintStairPaths.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/BubbleSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/CountSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/InsertionSort.java" afterDir="false" />
@@ -44,7 +41,7 @@
       <file leaf-file-name="CountSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/searching_sorting/CountSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
+            <state relative-caret-position="924">
               <caret line="28" column="9" selection-start-line="26" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
             </state>
           </provider>
@@ -53,7 +50,7 @@
       <file leaf-file-name="RadixSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/searching_sorting/RadixSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
+            <state relative-caret-position="561">
               <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
             </state>
           </provider>
@@ -171,7 +168,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -278,8 +276,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -471,28 +468,8 @@
       <workItem from="1703239422687" duration="1422000" />
       <workItem from="1703322113895" duration="4979000" />
       <workItem from="1703669093656" duration="2714000" />
-      <workItem from="1703767965633" duration="5442000" />
-    </task>
-    <task id="LOCAL-00015" summary="Pattern13">
-      <created>1701864258916</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1701864258916</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Pattern14">
-      <created>1701864275185</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1701864275185</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Pattern15">
-      <created>1701864289208</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1701864289208</updated>
+      <workItem from="1703767965633" duration="6856000" />
+      <workItem from="1703925339815" duration="228000" />
     </task>
     <task id="LOCAL-00018" summary="Pattern16, Pattern17">
       <created>1701943916420</created>
@@ -816,11 +793,32 @@
       <option name="project" value="LOCAL" />
       <updated>1703787473299</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Print KPC">
+      <created>1703865969566</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1703865969566</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Print Stair Paths">
+      <created>1703866034968</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1703866034968</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Print Maze Paths">
+      <created>1703866080616</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1703866080616</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196667000" />
+    <option name="totallyTimeSpent" value="198317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -828,7 +826,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49733475" weight="0.32897604" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -836,12 +833,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48454157" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48454157" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3523454" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35607675" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -850,12 +847,13 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.39978212" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49733475" weight="0.32897604" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -865,9 +863,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Rotate By 90Deg" />
-    <MESSAGE value="UpperDiagonals" />
-    <MESSAGE value="Ring Rotate" />
     <MESSAGE value="Palindromic Substrings" />
     <MESSAGE value="String Compression" />
     <MESSAGE value="Toggle Case" />
@@ -890,7 +885,10 @@
     <MESSAGE value="Get Maze Paths" />
     <MESSAGE value="Get Maze Paths With Jumps" />
     <MESSAGE value="Print Subsequences" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print Subsequences" />
+    <MESSAGE value="Print KPC" />
+    <MESSAGE value="Print Stair Paths" />
+    <MESSAGE value="Print Maze Paths" />
+    <option name="LAST_COMMIT_MESSAGE" value="Print Maze Paths" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1217,14 +1215,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/searching_sorting/CountSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
+        <state relative-caret-position="924">
           <caret line="28" column="9" selection-start-line="26" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/searching_sorting/RadixSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
+        <state relative-caret-position="561">
           <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
