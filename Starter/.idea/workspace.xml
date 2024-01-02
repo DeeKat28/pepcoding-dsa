@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="Find element">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/recursion_and_backtracking/KnightsTour.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/BubbleSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/CountSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/InsertionSort.java" afterDir="false" />
@@ -53,8 +52,8 @@
       <file leaf-file-name="SortDates.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/searching_sorting/SortDates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            <state relative-caret-position="462">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -150,7 +149,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,7 +256,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -452,14 +451,8 @@
       <workItem from="1703669093656" duration="2714000" />
       <workItem from="1703767965633" duration="6856000" />
       <workItem from="1703925339815" duration="989000" />
-      <workItem from="1704009413143" duration="1551000" />
-    </task>
-    <task id="LOCAL-00024" summary="Span of Array">
-      <created>1702289511554</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1702289511554</updated>
+      <workItem from="1704009413143" duration="2199000" />
+      <workItem from="1704184395987" duration="1189000" />
     </task>
     <task id="LOCAL-00025" summary="Find element">
       <created>1702292324757</created>
@@ -797,11 +790,18 @@
       <option name="project" value="LOCAL" />
       <updated>1704101508125</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Knights Tour">
+      <created>1704123498786</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1704123498786</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200621000" />
+    <option name="totallyTimeSpent" value="202458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -820,7 +820,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35980812" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36353946" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -845,7 +845,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Recursion - factorial" />
     <MESSAGE value="Power Linear" />
     <MESSAGE value="Power Logarithmic" />
     <MESSAGE value="Print Zigzag" />
@@ -870,7 +869,8 @@
     <MESSAGE value="FloodFill" />
     <MESSAGE value="Target Sum Subsets" />
     <MESSAGE value="NQueens" />
-    <option name="LAST_COMMIT_MESSAGE" value="NQueens" />
+    <MESSAGE value="Knights Tour" />
+    <option name="LAST_COMMIT_MESSAGE" value="Knights Tour" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1212,8 +1212,8 @@
     <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion_on_the_way_up/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/com/dsa/searching_sorting/SortDates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        <state relative-caret-position="462">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
         </state>
       </provider>
     </entry>
