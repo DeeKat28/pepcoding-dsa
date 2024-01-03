@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="Find element">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/BubbleSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/CountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/InsertionSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/MergeSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/MergeTwoSortedArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/PartitionArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/QuickSelect.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/QuickSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/SelectionSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/Sort01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/Sort012.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/SortDates.java" afterDir="false" />
@@ -49,11 +46,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortDates.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SortDates.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dsa/searching_sorting/SortDates.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
               <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GCDandLCM.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/GCDandLCM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -149,7 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,7 +263,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -453,27 +459,9 @@
       <workItem from="1703925339815" duration="989000" />
       <workItem from="1704009413143" duration="2199000" />
       <workItem from="1704184395987" duration="1189000" />
-    </task>
-    <task id="LOCAL-00025" summary="Find element">
-      <created>1702292324757</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1702292324757</updated>
-    </task>
-    <task id="LOCAL-00026" summary="BarChart">
-      <created>1702292354483</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1702292354483</updated>
-    </task>
-    <task id="LOCAL-00027" summary="SumOfTwoArrays">
-      <created>1702375831346</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1702375831346</updated>
+      <workItem from="1704212497949" duration="750000" />
+      <workItem from="1704274311767" duration="1226000" />
+      <workItem from="1704293910486" duration="694000" />
     </task>
     <task id="LOCAL-00028" summary="Sum and Difference of Two Arrays">
       <created>1702375909523</created>
@@ -797,11 +785,32 @@
       <option name="project" value="LOCAL" />
       <updated>1704123498786</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Bubble Sort">
+      <created>1704212600646</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1704212600647</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Selection Sort">
+      <created>1704212633433</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1704212633433</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Insertion Sort">
+      <created>1704212652857</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1704212652857</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202458000" />
+    <option name="totallyTimeSpent" value="205128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -820,7 +829,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36353946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37579957" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -845,9 +854,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Power Linear" />
-    <MESSAGE value="Power Logarithmic" />
-    <MESSAGE value="Print Zigzag" />
     <MESSAGE value="Tower Of Hanoi" />
     <MESSAGE value="Recursion - Display Array" />
     <MESSAGE value="Recursion - Max Of Array" />
@@ -870,7 +876,10 @@
     <MESSAGE value="Target Sum Subsets" />
     <MESSAGE value="NQueens" />
     <MESSAGE value="Knights Tour" />
-    <option name="LAST_COMMIT_MESSAGE" value="Knights Tour" />
+    <MESSAGE value="Bubble Sort" />
+    <MESSAGE value="Selection Sort" />
+    <MESSAGE value="Insertion Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Insertion Sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -878,13 +887,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dsa/strings/RemovePrimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion.java" />
     <entry file="file://$PROJECT_DIR$/src/com/dsa/recursion/PrintIncreasing.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1214,6 +1216,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/GCDandLCM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
         </state>
       </provider>
     </entry>
