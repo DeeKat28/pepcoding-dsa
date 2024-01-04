@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="Find element">
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/CountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/MergeTwoSortedArrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/PartitionArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/QuickSelect.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/QuickSort.java" afterDir="false" />
@@ -155,6 +153,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -262,8 +262,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -461,21 +459,8 @@
       <workItem from="1704184395987" duration="1189000" />
       <workItem from="1704212497949" duration="750000" />
       <workItem from="1704274311767" duration="1226000" />
-      <workItem from="1704293910486" duration="694000" />
-    </task>
-    <task id="LOCAL-00028" summary="Sum and Difference of Two Arrays">
-      <created>1702375909523</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1702375909523</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Reverse Array">
-      <created>1702375949430</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1702375949430</updated>
+      <workItem from="1704293910486" duration="1345000" />
+      <workItem from="1704386990273" duration="757000" />
     </task>
     <task id="LOCAL-00030" summary="Rotate array">
       <created>1702465674055</created>
@@ -806,11 +791,25 @@
       <option name="project" value="LOCAL" />
       <updated>1704212652857</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Merge Two Sorted Arrays">
+      <created>1704298499917</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1704298499918</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Merge Sort">
+      <created>1704298526052</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1704298526052</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205128000" />
+    <option name="totallyTimeSpent" value="206536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -829,7 +828,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37579957" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38006395" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -854,8 +853,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tower Of Hanoi" />
-    <MESSAGE value="Recursion - Display Array" />
     <MESSAGE value="Recursion - Max Of Array" />
     <MESSAGE value="FirstIndex in Array" />
     <MESSAGE value="LastIndex In Array" />
@@ -879,7 +876,9 @@
     <MESSAGE value="Bubble Sort" />
     <MESSAGE value="Selection Sort" />
     <MESSAGE value="Insertion Sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Insertion Sort" />
+    <MESSAGE value="Merge Two Sorted Arrays" />
+    <MESSAGE value="Merge Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge Sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
