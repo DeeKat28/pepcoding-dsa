@@ -3,15 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="Find element">
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/CountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/PartitionArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/QuickSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/QuickSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/RadixSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/Sort01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/Sort012.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/SortDates.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/TargetSumPair1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -460,21 +457,7 @@
       <workItem from="1704212497949" duration="750000" />
       <workItem from="1704274311767" duration="1226000" />
       <workItem from="1704293910486" duration="1345000" />
-      <workItem from="1704386990273" duration="757000" />
-    </task>
-    <task id="LOCAL-00030" summary="Rotate array">
-      <created>1702465674055</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1702465674055</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Inverse Array">
-      <created>1702466513730</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1702466513730</updated>
+      <workItem from="1704386990273" duration="2663000" />
     </task>
     <task id="LOCAL-00032" summary="Find SubArrays">
       <created>1702546250833</created>
@@ -805,11 +788,25 @@
       <option name="project" value="LOCAL" />
       <updated>1704298526052</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Partition Array">
+      <created>1704392878931</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1704392878932</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Quick Sort">
+      <created>1704392901078</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1704392901078</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206536000" />
+    <option name="totallyTimeSpent" value="208442000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -819,7 +816,7 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5154584" side_tool="true" visible="true" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.5154584" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -828,7 +825,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38006395" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38006395" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -853,8 +850,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Recursion - Max Of Array" />
-    <MESSAGE value="FirstIndex in Array" />
     <MESSAGE value="LastIndex In Array" />
     <MESSAGE value="All Indices Of Array" />
     <MESSAGE value="Get Subsequence" />
@@ -878,7 +873,9 @@
     <MESSAGE value="Insertion Sort" />
     <MESSAGE value="Merge Two Sorted Arrays" />
     <MESSAGE value="Merge Sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge Sort" />
+    <MESSAGE value="Partition Array" />
+    <MESSAGE value="Quick Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quick Sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
