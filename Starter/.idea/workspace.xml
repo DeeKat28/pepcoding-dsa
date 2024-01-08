@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="Find element">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/CountSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/RadixSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/Sort012.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/SortDates.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/TargetSumPair1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/GCDandLCM.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+              <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -148,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,8 +254,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -457,13 +457,7 @@
       <workItem from="1704293910486" duration="1345000" />
       <workItem from="1704386990273" duration="2663000" />
       <workItem from="1704616323937" duration="709000" />
-    </task>
-    <task id="LOCAL-00034" summary="Exit Point of Matrix">
-      <created>1702643741063</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1702643741063</updated>
+      <workItem from="1704736876362" duration="468000" />
     </task>
     <task id="LOCAL-00035" summary="Matrix Display - UpDown">
       <created>1702644810611</created>
@@ -801,14 +795,22 @@
       <option name="project" value="LOCAL" />
       <updated>1704616425449</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Count Sort">
+      <created>1704737338099</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1704737338099</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209151000" />
+    <option name="totallyTimeSpent" value="209619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -824,7 +826,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38432837" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38859275" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -849,7 +851,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Get Subsequence" />
     <MESSAGE value="Get KPC" />
     <MESSAGE value="Get Stair Paths" />
     <MESSAGE value="Get Maze Paths" />
@@ -874,7 +875,8 @@
     <MESSAGE value="Quick Sort" />
     <MESSAGE value="Quick Select" />
     <MESSAGE value="Sort01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sort01" />
+    <MESSAGE value="Count Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Count Sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1217,7 +1219,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/dsa/starter/GCDandLCM.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
         </state>
       </provider>
     </entry>
