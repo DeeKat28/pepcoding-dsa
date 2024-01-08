@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c31618ab-16ab-4d5c-8c86-00737a49dce7" name="Default" comment="Find element">
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/CountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/QuickSelect.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/Sort01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/Sort012.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/SortDates.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/dsa/searching_sorting/TargetSumPair1.java" afterDir="false" />
@@ -150,8 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -259,6 +255,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -458,20 +456,7 @@
       <workItem from="1704274311767" duration="1226000" />
       <workItem from="1704293910486" duration="1345000" />
       <workItem from="1704386990273" duration="2663000" />
-    </task>
-    <task id="LOCAL-00032" summary="Find SubArrays">
-      <created>1702546250833</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1702546250833</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Find Subsets - Array">
-      <created>1702546280533</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1702546280533</updated>
+      <workItem from="1704616323937" duration="709000" />
     </task>
     <task id="LOCAL-00034" summary="Exit Point of Matrix">
       <created>1702643741063</created>
@@ -802,11 +787,25 @@
       <option name="project" value="LOCAL" />
       <updated>1704392901078</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Quick Select">
+      <created>1704616383498</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1704616383498</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Sort01">
+      <created>1704616425449</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1704616425449</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208442000" />
+    <option name="totallyTimeSpent" value="209151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -825,7 +824,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38006395" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38432837" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -850,8 +849,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LastIndex In Array" />
-    <MESSAGE value="All Indices Of Array" />
     <MESSAGE value="Get Subsequence" />
     <MESSAGE value="Get KPC" />
     <MESSAGE value="Get Stair Paths" />
@@ -875,7 +872,9 @@
     <MESSAGE value="Merge Sort" />
     <MESSAGE value="Partition Array" />
     <MESSAGE value="Quick Sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quick Sort" />
+    <MESSAGE value="Quick Select" />
+    <MESSAGE value="Sort01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sort01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
